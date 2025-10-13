@@ -5,14 +5,6 @@
 
 ---
 
-## About Me
-
-- Researching cosmological models, Bayesian inference, and cosmic structure formation  
-- Experienced in data analysis, simulation pipelines, and statistical inference
-
-
----
-
 ## Academic Experience
 
 | Institution | Role / Degree | Years | Focus |
