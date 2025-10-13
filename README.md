@@ -1,5 +1,3 @@
-## Hi, 👋, I'm Oscar Hickman
-
 **Cosmology Researcher**
 
 
