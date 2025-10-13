@@ -34,7 +34,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages:**  
 `Python` • `C#` • `Assembly` • `Bash` • `LaTeX`
