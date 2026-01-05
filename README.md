@@ -1,4 +1,4 @@
-**Astrology Researcher**
+**Cosmology Researcher**
 
 
 ---
