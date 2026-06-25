@@ -2,7 +2,7 @@
 
 I am a Ph.D. candidate in Physics at the Insitute for Computational Cosmology at Durham University, focusing on cosmology, large-scale structure and Bayesian inference. My research involves developing high-performance estimators for galaxy clustering and leveraging simulation-based inference techniques.
 
-Before starting my Ph.D., I worked as a Quantitative Developer in investment banking (SMBC), specialising in xVA and derivatives pricing and as a Software Developer in financial technology. I hold an MSci in Physics from Imperial College London.
+Before starting my Ph.D., I worked as a Quant in investment banking (SMBC), specialising in xVA and derivatives pricing and as a Software Developer in fintech. I hold an MSci in Physics from Imperial College London.
 
 ---
 
@@ -15,7 +15,7 @@ My academic research focus is on developing software tools for large-scale struc
 *   **[galform_execution](https://github.com/OscarHickman/galform_execution)** & **[galform_analysis](https://github.com/OscarHickman/galform_analysis)** – Python utilities for configuring and executing the GALFORM semi-analytic galaxy formation model on HPC clusters, and analysing output HDF5 datasets.
 *   **[CMB_Advanced_Sampling](https://github.com/OscarHickman/CMB_Advanced_Sampling)** – Cosmological parameter estimation from the Cosmic Microwave Background (CMB) using advanced sampling techniques.
 *   **[photon-bec-ml](https://github.com/OscarHickman/photon-bec-ml)** – Characterising the phase diagram of a photon Bose-Einstein condensate using machine learning classifiers.
-
+technology
 ---
 
 ## Software & Systems Engineering
@@ -33,8 +33,8 @@ Outside of physics research, I build high-performance desktop clients, automatio
 ## Experience
 
 *   **Durham University** | Ph.D. in Physics (Cosmology & Bayesian Inference) | 2025 – Present
-*   **SMBC** | Quantitative Developer (xVA, derivatives pricing, trading tools) | 2024 – 2025
-*   **Investment Software Ltd** | Software Developer (financial software & pipeline optimisation) | 2022 – 2024
+*   **SMBC** | Quant (xVA, derivatives pricing, trading tools) | 2024 – 2025
+*   **Investment Software Ltd** | Software Developer (financial software) | 2022 – 2024
 *   **Imperial College London** | MSci in Physics | 2017 – 2021
 
 ---
