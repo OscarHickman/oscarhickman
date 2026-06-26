@@ -10,7 +10,7 @@ Before starting my Ph.D., I worked as a Quant in investment banking (SMBC), spec
 
 My academic research focus is on developing software tools for large-scale structure analysis and cosmological inference.
 
-*   `SUGC` – Sparse Unbiased Galaxy Clustering. High-performance, multi-threaded correlation-function counters in Rust and Python for calculating real-space, redshift-space, and high-order N-point statistics on galaxy catalogues.
+*   `SAUCE` – Sparse and Unbiased Clustering Estimator. High-performance, multi-threaded correlation-function counters in Rust and Python for calculating real-space, redshift-space, and high-order N-point statistics on galaxy catalogues.
 *   `ANVIL` – Amortised Noise Variance Inference Library. A high-performance framework for Noise-Amortised Neural Posterior Estimation (NPE) built with JAX, Equinox and Rust to amortise estimator variance in simulation-based inference.
 *   **[galform_execution](https://github.com/OscarHickman/galform_execution)** & **[galform_analysis](https://github.com/OscarHickman/galform_analysis)** – Python utilities for configuring and executing the GALFORM semi-analytic galaxy formation model on HPC clusters, and analysing output HDF5 datasets.
 *   **[diffcmb](https://github.com/OscarHickman/diffcmb)** – Differentiable Bayesian CMB inference — joint posterior sampling over signal, power spectrum and lensing potential.
