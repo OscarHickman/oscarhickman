@@ -13,7 +13,7 @@ My academic research focus is on developing software tools for large-scale struc
 *   **[SUGC](https://github.com/OscarHickman/SUGC)** – Sparse Unbiased Galaxy Clustering. High-performance, multi-threaded correlation-function counters in Rust and Python for calculating real-space, redshift-space, and high-order N-point statistics on galaxy catalogues..
 *   `ANVIL` – Amortised Noise Variance Inference Library. A high-performance framework for Noise-Amortised Neural Posterior Estimation (NPE) built with JAX, Equinox and Rust to amortise estimator variance in simulation-based inference.
 *   **[galform_execution](https://github.com/OscarHickman/galform_execution)** & **[galform_analysis](https://github.com/OscarHickman/galform_analysis)** – Python utilities for configuring and executing the GALFORM semi-analytic galaxy formation model on HPC clusters, and analysing output HDF5 datasets.
-*   **[CMB_Advanced_Sampling](https://github.com/OscarHickman/CMB_Advanced_Sampling)** – Cosmological parameter estimation from the Cosmic Microwave Background (CMB) using advanced sampling techniques.
+*   **[diffcmb](https://github.com/OscarHickman/diffcmb)** – Differentiable Bayesian CMB inference — joint posterior sampling over signal, power spectrum and lensing potential.
 *   **[photon-bec-ml](https://github.com/OscarHickman/photon-bec-ml)** – Characterising the phase diagram of a photon Bose-Einstein condensate using machine learning classifiers.
 technology
 ---
