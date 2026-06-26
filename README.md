@@ -15,7 +15,6 @@ My academic research focus is on developing software tools for large-scale struc
 *   **[galform_execution](https://github.com/OscarHickman/galform_execution)** & **[galform_analysis](https://github.com/OscarHickman/galform_analysis)** – Python utilities for configuring and executing the GALFORM semi-analytic galaxy formation model on HPC clusters, and analysing output HDF5 datasets.
 *   **[diffcmb](https://github.com/OscarHickman/diffcmb)** – Differentiable Bayesian CMB inference — joint posterior sampling over signal, power spectrum and lensing potential.
 *   **[photon-bec-ml](https://github.com/OscarHickman/photon-bec-ml)** – Characterising the phase diagram of a photon Bose-Einstein condensate using machine learning classifiers.
-technology
 ---
 
 ## Software & Systems Engineering
