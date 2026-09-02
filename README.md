@@ -10,7 +10,7 @@ Before my Ph.D., I worked as a Quant in investment banking specialising in xVA a
 
 - **Large-Scale Structure & Clustering:** High-performance spatial estimators, $N$-point statistics, and semi-analytic galaxy formation models.
 - **Simulation-Based Inference:** Neural Posterior Estimation (NPE/SBI), noise amortisation, and differentiable Bayesian pipelines.
-- **Scientific Computing & HPC:** Parallel algorithms and high-throughput kernels in Rust and C for distributed supercomputing clusters.
+- **Scientific Computing & HPC:** High performance code in Rust, numba using Rayon, parrelisation and GPUs.
 - **Systems & Tooling:** Automation tools, data pipelines, and desktop clients.
 
 ---
