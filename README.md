@@ -1,46 +1,31 @@
 # Oscar Hickman
 
-I am a Ph.D. candidate in Physics at the Insitute for Computational Cosmology at Durham University, focusing on cosmology, large-scale structure and Bayesian inference. My research involves developing high-performance estimators for galaxy clustering and leveraging simulation-based inference techniques.
+I am a Ph.D. candidate at the Institute for Computational Cosmology (ICC) at Durham University. My research focuses on large-scale structure, galaxy clustering statistics, and Bayesian simulation-based inference.
 
-Before starting my Ph.D., I worked as a Quant in investment banking (SMBC), specialising in xVA and derivatives pricing and as a Software Developer in fintech. I hold an MSci in Physics from Imperial College London.
-
----
-
-## Research & Scientific Computing
-
-My academic research focus is on developing software tools for large-scale structure analysis and cosmological inference.
-
-*   `SAUCE` – Sparse and Unbiased Clustering Estimator. High-performance, multi-threaded correlation-function counters in Rust and Python for calculating real-space, redshift-space, and high-order N-point statistics.
-*   `ANVIL` – Amortised Noise Variance Inference Library. A high-performance framework for Noise-Amortised Neural Posterior Estimation (NPE) built with JAX, Equinox and Rust to amortise estimator variance in simulation-based inference.
-*   **[galform_execution](https://github.com/OscarHickman/galform_execution)** & **[galform_analysis](https://github.com/OscarHickman/galform_analysis)** – Python utilities for configuring and executing the GALFORM semi-analytic galaxy formation model on HPC clusters, and analysing output HDF5 datasets.
-*   **[diffcmb](https://github.com/OscarHickman/diffcmb)** – Differentiable Bayesian CMB inference — joint posterior sampling over signal, power spectrum and lensing potential.
-*   **[photon-bec-ml](https://github.com/OscarHickman/photon-bec-ml)** – Characterising the phase diagram of a photon Bose-Einstein condensate using machine learning classifiers.
----
-
-## Software & Systems Engineering
-
-Outside of physics research, I build high-performance desktop clients, automation tools, and financial infrastructure.
-
-*   **[aura](https://github.com/OscarHickman/aura)** – An automated assistant that daily fetches, filters, and summarises arXiv AI/ML publications using LLMs, emailing a structured digest.
-*   `glide` – A keyboard-first, multi-provider desktop email client for Linux built using C# with .NET 10 and Avalonia UI.
-*   `synapse` – A wealth management ecosystem combining portfolio tracking, ML-based equity forecasting, and mortgage tracking (TypeScript).
-*   `heirloom` – A fitness data aggregator that fetches, normalises, and deduplicates activity and health metrics from Strava and Garmin Connect into local SQLite storage.
-*   **[connect4-pic18-glcd](https://github.com/OscarHickman/connect4-pic18-glcd)** – Connect 4 game written in PIC18F87K22 assembly language for a graphical LCD and a 4x4 matrix keypad.
+Before my Ph.D., I worked as a Quant in investment banking specialising in xVA and derivatives pricing, and as a Software Developer in fintech. I hold an MSci in Physics from Imperial College London.
 
 ---
 
-## Experience
+## Research & Focus Areas
 
-*   **Durham University** | Ph.D. in Physics (Cosmology & Bayesian Inference) | 2025 – Present
-*   **SMBC** | Quant (xVA, derivatives pricing, trading tools) | 2024 – 2025
-*   **Investment Software Ltd** | Software Developer (financial software) | 2022 – 2024
-*   **Imperial College London** | MSci in Physics | 2017 – 2021
+- **Large-Scale Structure & Clustering:** High-performance spatial estimators, $N$-point statistics, and semi-analytic galaxy formation models.
+- **Simulation-Based Inference:** Neural Posterior Estimation (NPE/SBI), noise amortisation, and differentiable Bayesian pipelines.
+- **Scientific Computing & HPC:** Parallel algorithms and high-throughput kernels in Rust and C for distributed supercomputing clusters.
+- **Systems & Tooling:** Automation tools, data pipelines, and desktop clients.
 
 ---
 
 ## Technical Stack
 
-*   **Languages:** Python, Rust, C#, C, TypeScript, SQL, Assembly (PIC18), Bash, LaTeX
-*   **Scientific Computing & ML:** JAX / Equinox, PyTorch, TensorFlow Probability, NumPy, SciPy, AstroPy, Pandas, Scikit-learn
-*   **Systems & Frontend:** .NET 10, Avalonia UI, Substrate, Vue.js, Node.js
-*   **Tools & Infrastructure:** Git, Linux (Fedora), Docker, SQLite, PostgreSQL, SLURM (HPC)
+- **Languages:** Python, Rust, C#, C, TypeScript, SQL, Bash, LaTeX
+- **Scientific Computing & ML:** JAX, PyTorch, Polars, NumPy, SciPy
+- **Tools & Infrastructure:** SLURM (HPC), Git, Docker
+
+---
+
+## Background
+
+- **Durham University** | Ph.D. in Physics | 2025 – Present
+- **SMBC** | Quant (xVA & Derivatives Pricing) | 2024 – 2025
+- **Investment Software Ltd** | Software Developer | 2022 – 2024
+- **Imperial College London** | MSci in Physics | 2017 – 2021
